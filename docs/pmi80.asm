@@ -1,5 +1,5 @@
 ;
-; Zdrojovy kod obsluzneho monitoru pocitace PMI-80
+; PMI-80 Monitor source code
 ;*************************************************
 ; (c) Roman Kiss, TESLA etc.
 ;*************************************************
